@@ -1,4 +1,7 @@
 CREATE DATABASE Recetario_familiar COLLATE 'utf8mb4_general_ci';
+id19982342_recetario_familiar
+id19982342_root
+#reVs(xVf4V*)^Ke
 
 CREATE TABLE Configuracion (
     IdConfiguracion bigint NOT NULL,
